@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitTacToeEX", "TitTacToeEX\TitTacToeEX.csproj", "{AA1AFD0B-FB06-49C3-A224-5FF584BB38BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA1AFD0B-FB06-49C3-A224-5FF584BB38BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1AFD0B-FB06-49C3-A224-5FF584BB38BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1AFD0B-FB06-49C3-A224-5FF584BB38BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1AFD0B-FB06-49C3-A224-5FF584BB38BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {478992FD-5C85-4CA9-BE93-0C18C59AF27E}
+	EndGlobalSection
+EndGlobal
