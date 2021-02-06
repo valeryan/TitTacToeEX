@@ -1,10 +1,8 @@
-﻿using System;
-
-namespace TitTacToeEX
+﻿namespace TitTacToeEX
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Board board = new Board();
             while (board.IsPlayable)
